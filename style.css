@@ -1,0 +1,21 @@
+h1{
+    width: 100%;
+    height: 112px;
+    text-align: center;
+    border: dashed;
+    background-color: crimson;
+    fill: aqua;
+    display: inline-block;
+}
+
+h4{
+width: 30%;
+height: 300px;
+text-align: center;
+border: dashed;
+background-color: aqua;
+vertical-align: right;
+fill: bisque;
+display: inline-block
+}
+
