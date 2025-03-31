@@ -7,15 +7,18 @@ h1{
     fill: aqua;
     display: inline-block;
 }
-
-h4{
-width: 30%;
-height: 300px;
-text-align: center;
-border: dashed;
-background-color: aqua;
-vertical-align: right;
-fill: bisque;
-display: inline-block
+.container{
+    display: flex;
+}
+.main{
+    flex: 3;
 }
 
+.sidebar{
+width: 30%;
+border: dashed;
+display: inline-block;
+flex: 1;
+background-color: aqua;
+margin-left: 1px
+}
