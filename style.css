@@ -20,5 +20,24 @@ border: dashed;
 display: inline-block;
 flex: 1;
 background-color: aqua;
-margin-left: 1px
+margin: 1px
+}
+.Islanders{
+    display: block;
+    text-align: center;
+    margin: 10px;
+}
+.Mets{
+    display: block;
+    text-align: center;
+    margin: 10px;
+}
+.Knicks{
+    display: block;
+    text-align: center;
+    margin: 10px;
+}
+.Layout{
+    display: flex;
+
 }
